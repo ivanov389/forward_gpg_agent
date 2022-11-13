@@ -1,0 +1,9 @@
+/build
+/.cache
+/.vscode
+/x64
+/.vs
+*.vcxproj*
+*.sln
+*.exe
+compile_commands.json

@@ -7,7 +7,7 @@
 # FAQ
 
 * [Зачем это нужно?](#user-content-зачем-это-нужно)
-* [Cool story bro, но вопрос был: зачем это нужно, если есть win-gpg-agent](#user-content-cool-story-bro-но-вопрос-был-зачем-это-нужно-если-есть-win-gpg-agent)
+* [Cool story bro, но вопрос был: зачем это нужно, если есть win-gpg-agent](#user-content-cool-story-bro-но-вопрос-был-зачем-это-нужно-если-есть-win-gpg-agent)?
 * [Уговорил. Где взять софтину?](#user-content-уговорил-где-взять-софтину)
 * [Как пользоваться?](#user-content-как-пользоваться)
 

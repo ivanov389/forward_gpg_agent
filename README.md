@@ -1,6 +1,6 @@
 # forward_gpg_agent
 
-[![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/ivanov389/forward_gpg_agent/origin/LICENSE.txt)
+[![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/ivanov389/forward_gpg_agent/blob/main/LICENSE.txt)
 
 **forward_gpg_agent** - костыль с консольным интерфейсом для проброса GPG агента в интернет сокет и PuTTY агента в интернет сокет или именованный канал. Для `Windows Operating System™`. В Линуксе такие костыли не нужны, но если очень хочется, можно использовать socat.
 
